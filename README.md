@@ -2,8 +2,7 @@
 
 
 ## 🌐 Socials:
-<!--[![Instagram](<i class="ri-instagram-fill"></i>)](https://instagram.com/halfpace_1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/halfpace_1)--> 
-<p align="left">
+<p>
 <a href="https://codepen.io/https://codepen.io/titus-brahma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/titus-brahma" height="30" width="40" /></a>
 <a href="https://twitter.com/halfpace_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="halfpace_1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/titus-brahma-4b9866324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/titus-brahma-4b9866324/" height="30" width="40" /></a>
