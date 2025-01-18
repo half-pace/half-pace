@@ -32,7 +32,7 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/halfpace64/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/halfpace64/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/https://www.hackerearth.com/@halfpace64/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@halfpace64/" height="30" width="40" /></a>-->
 </p>
-
+<i class="ri-mail-open-fill"></i>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
