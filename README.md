@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Titus, an enthusiastic individual on the journey to becoming a software engineer.
+<!--I'm Titus, an enthusiastic individual on the journey to becoming a software engineer.
 
 I'm currently honing my programming skills, focusing on front-end web development and game development, and exploring different languages and technologies to expand my knowledge!
 
@@ -14,12 +14,4 @@ Here are a few personal interests:
 
 More about me!
 - 📫 How to reach me: Through the links in my profile or through my email at "halfpace64@gmail.com"
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: 
 -->
