@@ -59,7 +59,7 @@ I'm a student going through web dev, game dev and many more.
 ---
 [![](https://visitcount.itsvg.in/api?id=half-pace&icon=0&color=0)](https://visitcount.itsvg.in)
 <h3 align="left">Support</h3>
-<p><a href="https://ko-fi.com/https://ko-fi.com/halfpace"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/halfpace" /></a></p><br><br>
+<p><a href="https://ko-fi.com/halfpace"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/halfpace" /></a></p><br><br>
 
 <hr>
 <p align="center">
