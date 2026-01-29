@@ -99,10 +99,10 @@ I'm a student going through web dev, game dev and many more.
 <a href="https://instagram.com/halfpace_1" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="33" alt="instagram logo"  /></a>
 <a href="https://www.hackerrank.com/halfpace64" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="46" height="33" alt="hackerrank logo"  /></a>
 <a href="https://ko-fi.com/halfpace" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="46" height="33" alt="ko-fi logo"  /></a>
-<a href="https://www.codechef.com/users/halfpace_2" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="halfpace_2" height="33" width="46" /></a>
+<a href="https://www.codechef.com/users/halfpace_2" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="halfpace_2" height="33" width="46" /></a>
 <!-- <a href="https://www.hackerrank.com/halfpace64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="halfpace64" height="30" width="40" /></a> -->
-<a href="https://codeforces.com/profile/halfpace_1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="halfpace_1" height="33" width="46" /></a>
-<a href="https://www.leetcode.com/halfpace64" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="halfpace64" height="33" width="46" /></a>
+<a href="https://codeforces.com/profile/halfpace_1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="halfpace_1" height="33" width="46" /></a>
+<a href="https://www.leetcode.com/halfpace64" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="halfpace64" height="33" width="46" /></a>
 </div>
 
 <!--## 🌐 Socials-->
