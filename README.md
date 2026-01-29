@@ -119,10 +119,10 @@ I'm a student going through web dev, game dev and many more.
 <a href="https://www.hackerearth.com/https://www.hackerearth.com/@halfpace64/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@halfpace64/" height="30" width="40" /></a>-->
 </p>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/half-pace/half-pace/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/half-pace/half-pace/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/half-pace/half-pace/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
