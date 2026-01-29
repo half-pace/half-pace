@@ -92,12 +92,23 @@ I'm a student going through web dev, game dev and many more.
     <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   -->
 
+<div align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/titus-brahma-4b9866324/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="33" alt="linkedin logo"  /></a>
+<a href="https://twitter.com/halfpace_1" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="46" height="33" alt="twitter logo"  /></a>
+<a href="https://discord.com/channels/@me" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="46" height="33" alt="discord logo"  /></a>
+<a href="https://instagram.com/halfpace_1" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="33" alt="instagram logo"  /></a>
+<a href="https://www.hackerrank.com/halfpace64" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="46" height="33" alt="hackerrank logo"  /></a>
+<a href="https://ko-fi.com/halfpace" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="46" height="33" alt="ko-fi logo"  /></a>
+</div>
+
 <!--## 🌐 Socials-->
-<p align="center">
-<!--<a href="https://codepen.io/https://codepen.io/titus-brahma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/titus-brahma" height="30" width="40" /></a>-->
+<!--<p align="center">
+<a href="https://codepen.io/https://codepen.io/titus-brahma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/titus-brahma" height="30" width="40" /></a>
+
 <a href="https://twitter.com/halfpace_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="halfpace_1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/titus-brahma-4b9866324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/titus-brahma-4b9866324/" height="30" width="40" /></a>
 <a href="https://instagram.com/halfpace_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="halfpace_1" height="30" width="40" /></a>
+
 <!--<a href="https://dribbble.com/https://dribbble.com/half-pace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/half-pace" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/halfpace64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/halfpace64" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/halfpace64/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/halfpace64/" height="30" width="40" /></a>
