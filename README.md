@@ -99,6 +99,10 @@ I'm a student going through web dev, game dev and many more.
 <a href="https://instagram.com/halfpace_1" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="33" alt="instagram logo"  /></a>
 <a href="https://www.hackerrank.com/halfpace64" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="46" height="33" alt="hackerrank logo"  /></a>
 <a href="https://ko-fi.com/halfpace" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="46" height="33" alt="ko-fi logo"  /></a>
+<a href="https://www.codechef.com/users/halfpace_2" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="halfpace_2" height="33" width="46" /></a>
+<!-- <a href="https://www.hackerrank.com/halfpace64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="halfpace64" height="30" width="40" /></a> -->
+<a href="https://codeforces.com/profile/halfpace_1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="halfpace_1" height="33" width="46" /></a>
+<a href="https://www.leetcode.com/halfpace64" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="halfpace64" height="33" width="46" /></a>
 </div>
 
 <!--## 🌐 Socials-->
@@ -115,21 +119,10 @@ I'm a student going through web dev, game dev and many more.
 <a href="https://www.hackerearth.com/https://www.hackerearth.com/@halfpace64/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@halfpace64/" height="30" width="40" /></a>-->
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/half-pace/half-pace/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/half-pace/half-pace/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/half-pace/half-pace/output/pacman-contribution-graph.svg">
+</picture>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<!--I'm Titus, an enthusiastic individual on the journey to becoming a software engineer.
-
-I'm currently honing my programming skills, focusing on front-end web development and game development, and exploring different languages and technologies to expand my knowledge!
-
-Feel free to explore my repositories. I’m always open to feedback, contributions, and discussions to help me grow as a developer.
-
-Here are a few personal interests:
-
-- Engaged in basketball, archery, and shooting
-- Passionate about travel and exploration
-- Enjoy watching anime and movies as a way to unwind
-
-More about me!
-- 📫 How to reach me: Through the links in my profile or through my email at "halfpace64@gmail.com"
--->
