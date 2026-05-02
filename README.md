@@ -93,9 +93,9 @@ I'm a student going through web dev, game dev and many more.
   -->
 
 <div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/titus-brahma-4b9866324/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="33" alt="linkedin logo"  /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/titus-brahma-4b9866324/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="33" alt="linkedin logo"/></a>
   
-<a href="https://twitter.com/halfpace_1" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="46" height="33" alt="twitter logo"  /></a>
+<a href="https://twitter.com/halfpace_1" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="46" height="33" alt="twitter logo"/></a>
 <a href="https://discord.com/channels/@me" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="46" height="33" alt="discord logo"  /></a>
 <a href="https://instagram.com/halfpace_1" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="33" alt="instagram logo"  /></a>
 <a href="https://www.hackerrank.com/halfpace64" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="46" height="33" alt="hackerrank logo"  /></a>
